@@ -1,0 +1,27 @@
+/********************* Star Utilidades ************/
+@use 'base/variables' as v;
+.text-center{
+    text-align: center;
+}
+
+.bg-primario{
+    background-color: v.$primario;
+}
+
+.bg-white{
+    background-color: v.$blanco;
+}
+
+.margin-negativo-10{
+    margin-top: -10rem;
+
+}
+
+.p-b-0{
+    padding-bottom: 0;
+}
+
+
+
+
+/********************** END Utilidades ***************/
